@@ -61,7 +61,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"sounds\/08_Sounds_pisse.mp3"
+                 "value":"sounds\/09_pippi.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
